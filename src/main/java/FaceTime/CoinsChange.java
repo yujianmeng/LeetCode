@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 /**
  * Created by yujian on 2017/10/9.
+ * 动态规划硬币找零问题
  */
 public class CoinsChange {
 

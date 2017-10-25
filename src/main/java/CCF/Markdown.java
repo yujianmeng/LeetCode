@@ -5,7 +5,7 @@ import java.util.*;
 /**
  * Created by yujian on 2017/9/27.
  */
-public class Main {
+public class Markdown {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         String line = "";

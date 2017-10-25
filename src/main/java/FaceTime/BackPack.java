@@ -2,7 +2,7 @@ package FaceTime;
 
 /**
  * Created by yujian on 2017/10/10.
- * 背包问题
+ * 动态规划解决背包问题
  */
 public class BackPack {
     public static void main(String[] args) {
