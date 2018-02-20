@@ -1,4 +1,4 @@
-package otherjavaexamples;
+package other_java_examples;
 
 import java.nio.Buffer;
 import java.nio.ByteBuffer;

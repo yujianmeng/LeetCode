@@ -1,4 +1,4 @@
-package otherjavaexamples;
+package other_java_examples;
 
 import org.junit.Test;
 

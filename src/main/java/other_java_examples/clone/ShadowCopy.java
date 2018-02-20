@@ -1,4 +1,4 @@
-package otherjavaexamples.clone;
+package other_java_examples.clone;
 
 /**
  * Created by yujian on 2018/2/11.

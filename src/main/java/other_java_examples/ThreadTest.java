@@ -1,4 +1,4 @@
-package otherjavaexamples;
+package other_java_examples;
 
 /**
  * Created by yujian on 2017/11/1.

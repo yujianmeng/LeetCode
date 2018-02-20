@@ -1,4 +1,4 @@
-package otherjavaexamples;
+package other_java_examples;
 
 import java.util.concurrent.Executors;
 import java.util.concurrent.ScheduledExecutorService;
