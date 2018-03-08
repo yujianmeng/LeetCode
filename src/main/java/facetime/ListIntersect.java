@@ -2,6 +2,7 @@ package facetime;
 
 /**
  * Created by yujian on 2018/2/21.
+ * 链表相交
  */
 public class ListIntersect {
     public static void main(String[] args) {
